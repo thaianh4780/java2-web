@@ -1,0 +1,29 @@
+SMAP
+shopping_002dcart_jsp.java
+JSP
+*S JSP
+*F
++ 0 shopping-cart.jsp
+shopping-cart.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,18:60
+5#1,26:78
+30:295,8
+31,2:303
+32,3:106
+34:323,8
+35:331
+36:332,5
+37,2:337
+38,2:111
+39:357,8
+40,3:365
+42,17:115
+18#0,79:131
+5#2,59:210
+96#0,9:268
+*E
